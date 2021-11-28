@@ -1,5 +1,5 @@
 @echo off
-Color 0i & Mode con cols=50 lines=20
+Color 0j & Mode con cols=50 lines=20
 
 ::git remote add wow git://github.com/Darksquall1978/quenelle2.git
 
