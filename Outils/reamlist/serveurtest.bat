@@ -12,7 +12,7 @@ Color 0e & Mode con cols=51 lines=4
 @echo off
 ::ECHO.
 DEL Data\frFR\realmlist.wtf
-ECHO set realmlist 26.88.253.101 >>Data/frFR/realmlist.wtf
+ECHO set realmlist 26.127.209.183 >>Data/frFR/realmlist.wtf
 ECHO Connection au Serveur test...
 timeout /t 3 /nobreak > nul
 Color 0a
