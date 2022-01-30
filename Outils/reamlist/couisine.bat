@@ -12,7 +12,7 @@ Color 0e & Mode con cols=51 lines=4
 @echo off
 ::ECHO.
 DEL Data\frFR\realmlist.wtf
-ECHO set realmlist 26.0.12.25 >>Data/frFR/realmlist.wtf
+ECHO set realmlist 26.178.104.85 >>Data/frFR/realmlist.wtf
 ECHO Connection au Royaume de la femme a la couisine...
 timeout /t 3 /nobreak > nul
 Color 0a
