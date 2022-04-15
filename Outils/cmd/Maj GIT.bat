@@ -5,9 +5,9 @@ Color 0b & Mode con cols=50 lines=30
 
 
 
-git fetch wow
+::git fetch wow
 
-git fetch
+::git fetch
 
 git pull
 
@@ -24,5 +24,3 @@ cd..
 
 WoW-Launcher.exe
 exit
-
-
